@@ -39,7 +39,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./app/src/main/res/drawable-v24/wordy_logo.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
