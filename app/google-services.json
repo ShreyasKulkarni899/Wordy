@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "119087933506",
+    "firebase_url": "https://wordy-63457-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wordy-63457",
+    "storage_bucket": "wordy-63457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119087933506:android:500b2acc354766155b25db",
+        "android_client_info": {
+          "package_name": "minenew.example.wordy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119087933506-2c8e5ofrfrpm2bbv35gon6acd29bom93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDknr4fm7CL-4yHt4_jyTLW6rvpKxg_j4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119087933506-2c8e5ofrfrpm2bbv35gon6acd29bom93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
